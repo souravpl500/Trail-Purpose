@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 25px;
+}
+img {
+  width: 50%;
+  border-radius: 50%;
+  margin-top: 7%;
+}
+li > img {
+  width: 10%;
+  border-radius: 50%;
+}
